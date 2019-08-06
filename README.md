@@ -56,3 +56,9 @@ Decision Tree had an f1 score of 73.9% after hypterparameter tuning
 
 #### Mod4_Rob_MJ.ipnyb
 Contains the work to produce the output file.
+
+####  Classification Assessment Mini-Project.ipynb
+Contains EDA and the assignment
+
+#### features.py
+Explained above
